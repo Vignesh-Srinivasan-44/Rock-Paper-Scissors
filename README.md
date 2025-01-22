@@ -21,7 +21,7 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 - **JavaScript**: Game logic and interactivity.
 
 ## Live Demo 🔗
-[Play the Game Now](#) *(Replace `#` with your live demo link, e.g., GitHub Pages URL)*
+[Play the Game Now](https://vignesh-srinivasan-44.github.io/Rock-Paper-Scissors/)
 
 ## Screenshots 📸
 ![Rock Paper Scissors Game Screenshot](assets/rpc_gameplay.png)
