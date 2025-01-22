@@ -1,4 +1,6 @@
-![Rock Paper Scissors Game Screenshot](assets/rpc.png))# Rock Paper Scissors Game 🎮
+## Rock Paper Scissors Game 🎮
+
+![Rock Paper Scissors Game Screenshot](assets/rpc.png)
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates core web development concepts and provides a simple yet engaging user experience.
 
@@ -27,4 +29,4 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 ## How to Run Locally 🖥️
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/Vignesh-Srinivasan-44/Rock-Paper-Scissors.git
